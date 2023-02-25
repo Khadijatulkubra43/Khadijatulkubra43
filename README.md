@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khadija Tul Kubra</h1>
 <h3 align="center">A passionate frontend developer from Karachi</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-- 🔭 I’m currently working on [Cyber security internship](https://www.theforage.com/modules/5L6aBHz9ZYCs4eibk/KSnaSc3o4bLo7emeN?ref=ZYb4C4hCYLz9viNPF)
+- 🔭 I’m currently working on [Cyber security internship]
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
