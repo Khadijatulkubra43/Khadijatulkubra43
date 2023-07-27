@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Khadija Tul Kubra</h1>
-<h3 align="center">A passionate frontend developer from Karachi</h3>
+<h3 align="center">A passionate frontend developer from Karachi</h3><br/>
+<p>I’m currently learning Web 3 and metaverse, Mern stack course</p>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadijatulkubra43" alt="khadijatulkubra43" /></a> </p>
 
-- 🔭 I’m currently working on **Cyber security internship**
+- 🔭 I’m currently working on **Web development internship**
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Khadijatulkubra43?tab=repositories](https://github.com/Khadijatulkubra43?tab=repositories)
 
-- 💬 Ask me about **Html,css,javascript,python,wordpress**
+- 💬 Ask me about **Html,css,javascript,python,php,React app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
